@@ -20,7 +20,13 @@ struct ContentView: View {
             if url != nil {
                 VideoPlayer(player: AVPlayer(url: url!))
             }
-            Text("Hello")
+            ScrollView{
+                VStack(alignment: .leading){
+                    Text("Description").font(.title)
+                    Text("In the video, a hunter finds his pray.")
+                    
+                }
+            }
         }
         
         
