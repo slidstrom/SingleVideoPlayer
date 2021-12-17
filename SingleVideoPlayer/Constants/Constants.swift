@@ -10,6 +10,6 @@ import Foundation
 struct Constants {
     
     //Github repository link
-    static var videoHostUrl = ""
+    static var videoHostUrl = "https://github.com/slidstrom/SingleVideoPlayer"
     
 }
