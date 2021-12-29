@@ -23,7 +23,7 @@ struct ContentView: View {
             ScrollView{
                 VStack(alignment: .leading){
                     Text("Description").font(.title)
-                    Text("In the video, a hunter finds his pray.")
+                    Text("In the video, a hunter, Spencer, finds his pray.")
                     
                 }
             }
