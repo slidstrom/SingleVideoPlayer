@@ -11,5 +11,5 @@ struct Constants {
     
     //Github repository link
     static var videoHostUrl = "https://slidstrom.github.io/SingleVideoPlayer/"
-    
+    // github
 }
